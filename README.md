@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WanzStudios
+- 👀 I’m interested in cinematography, web development & programming
+- 🌱 I’m currently learning web dev, C#, JavaScript, Angular & React
+- 💞️ I’m not looking to collaborate on anything specific as of now
+- 📫 How to reach me - Email: WanzStudios@gmail.com
